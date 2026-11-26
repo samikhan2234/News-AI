@@ -1,0 +1,6 @@
+{
+  "name": "ScholarLens",
+  "description": "Interactive academic paper deconstructor, concept knowledge graph mapper, and oral viva defense simulator powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
